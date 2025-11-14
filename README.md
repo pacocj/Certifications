@@ -15,6 +15,7 @@ Repositório onde organizo as minhas certificações e badges nas áreas de
 
 📄 [Ver certificações de Automação & IA](Automation_AI_Certifications.md)
 
+
 ---
 
 ## 📊 Data Analytics
