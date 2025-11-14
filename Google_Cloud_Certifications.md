@@ -6,7 +6,7 @@ Este documento reúne as minhas certificações e badges emitidos pela Google Cl
 
 ## 🟦 Building No-Code Apps with AppSheet: Automation
 
-[![[Google Cloud Badge](https://www.skills.google/profile/badges)](https://img.shields.io/badge/Google%20Cloud-AppSheet%20Automation-blue?logo=google-cloud)](AQUI_O_LINK_DO_BADGE)
+[![[Google Cloud Badge](https://www.skills.google/profile/badges)](https://img.shields.io/badge/Google%20Cloud-AppSheet%20Automation-blue?logo=google-cloud)]([AQUI_O_LINK_DO_BADGE](https://www.skills.google/profile/badges))
 
 **Data de emissão:** 13 Nov 2025  
 **Descrição:**  
