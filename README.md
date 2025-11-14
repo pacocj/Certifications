@@ -1,1 +1,26 @@
-📄 [Ver meu badge Google Cloud – AppSheet Automation](https://www.skills.google/public_profiles/805862d9-99e3-468e-96c3-b14a2e091898/badges/20181748)
+# 🎓 Certifications & Learning Journey
+
+Repositório onde organizo as minhas certificações e badges nas áreas de  
+**Google Cloud, IA, Automação e Data Analytics**.
+
+---
+
+## 🚀 Google Cloud
+
+📄 [Ver certificações Google Cloud](Google_Cloud_Certifications.md)
+
+---
+
+## 🤖 Automação & IA
+
+📄 [Ver certificações de Automação & IA](Automation_AI_Certifications.md)
+
+---
+
+## 📊 Data Analytics
+
+📄 [Ver certificações de Data Analytics](Data_Analytics_Certifications.md)
+
+---
+
+Em atualização contínua, à medida que vou concluindo novas formações e badges.
