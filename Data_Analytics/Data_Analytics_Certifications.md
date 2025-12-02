@@ -13,7 +13,7 @@ Bootcamp intensivo cobrindo preparação de dados, visualização, dashboards e 
 
 ## 📊 Power BI – Data Analytics & Dashboards
 
-📄 [Ver certificado](./Automation_AI/PowerBI_Certificate.pdf)
+📄 [Ver certificado](./PowerBI_Certificate.pdf)
 
 **Descrição:**  
 Certificação em análise de dados com **Power BI**, incluindo modelação de dados, DAX básico, criação de dashboards interativos e boas práticas de visualização.  
