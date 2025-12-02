@@ -15,7 +15,7 @@ Certificação focada em automação de tarefas em **Excel** com apoio de **IA**
 
 ## 🔗 Automatização com n8n & LangChain (no-code)
 
-📄 **[Ver certificado](n8n_LangChain_Automation_Certificate.pdf)**
+📄 **[Ver certificado](./n8n_LangChain_Automation_Certificate.pdf)**
 
 **Descrição:**  
 Certificação introdutória em automação com **n8n** e **LangChain**, focada na criação de fluxos automatizados sem código.  
