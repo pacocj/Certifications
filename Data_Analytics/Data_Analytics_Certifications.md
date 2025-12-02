@@ -6,7 +6,7 @@ Certificações concluídas na área de Data Analytics.
 
 ## 📘 Data Analytics Bootcamp – Certification of Completion  
 
-📄 [Ver certificado](Data%20Analytics%20Bootcamp%20Certification%20of%20Completion_co.png)
+📄 [Ver certificado](./Data_Analytics_Bootcamp_Certification.pdf)
 
 **Descrição:**  
 Bootcamp intensivo cobrindo preparação de dados, visualização, dashboards e análise aplicada a casos de negócio.
