@@ -11,6 +11,15 @@ Certificações concluídas na área de Data Analytics.
 **Descrição:**  
 Bootcamp intensivo cobrindo preparação de dados, visualização, dashboards e análise aplicada a casos de negócio.
 
+## 📊 Power BI – Data Analytics & Dashboards
+
+📄 **[Ver certificado](./Automation_AI/PowerBI_Certificate.pdf)**  
+
+**Descrição:**  
+Certificação em análise de dados com **Power BI**, incluindo modelação de dados, DAX básico, criação de dashboards interativos e boas práticas de visualização.  
+Abarca preparação de datasets, construção de relatórios e publicação no Power BI Service.
+
+---
 ---
 
 Mais certificações de Data Analytics serão adicionadas aqui.
